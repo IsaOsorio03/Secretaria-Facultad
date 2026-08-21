@@ -1,0 +1,6 @@
+{
+  "name": "Secretaría Académica UNAL",
+  "description": "Sitio web institucional oficial de la Secretaría Académica de la Universidad Nacional de Colombia, Facultad de Minas, Sede Medellín.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
